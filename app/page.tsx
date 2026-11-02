@@ -20,6 +20,7 @@ export default function Home() {
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
             Tech stack: Next.js, React, TypeScript, Node.js 24, Docker, Terraform, Amazon ECR, Amazon ECS Fargate, Application Load Balancer (ALB), AWS IAM, Amazon CloudWatch, AWS CLI, Windows Batch (.bat).
           </p>
+          <p>🚀 Deployed automatically with GitHub Actions + AWS ECS!</p>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
           <a
